@@ -1,0 +1,421 @@
+    1  curl -s 'https://api.macapps.link/en/firefox-chrome' | sh
+    2  gcc
+    3  xcode --version
+    4  conda
+    5  nano test.py
+    6  xcode-select --version
+    7  xcode-select --version
+    8  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    9  which g++
+   10  brew install wget
+   11  sudo
+   12  sudo brew install wget
+   13  sudo chown -R $(whoami) /usr/local/lib/pkgconfig
+   14  chmod u+w /usr/local/lib/pkgconfig
+   15  brew install wget
+   16  brew install emacs
+   17  brew install git
+   18  brew install nano
+   19  curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
+   20  cd ~/.nanorc
+   21  echo "include $install_path/*.nanorc" >> ~/.nanorc or
+   22  echo "include $install_path/*.nanorc" >> ~/.nanorc
+   23  cat ~/.nanorc
+   24  nano ~/.nanorc
+   25  cat ~/.nanorc
+   26  nano
+   27  bash ~/Downloads/Anaconda3-2019.07-MacOSX-x86_64.sh 
+   28  ls
+   29  cd Downloads
+   30  ls
+   31  Anaconda3-2019.07-MacOSX-x86_64.sh
+   32  ./Anaconda3-2019.07-MacOSX-x86_64.sh
+   33  conda
+   34  conda
+   35  conda
+   36  conda
+   37  conda update
+   38  conda
+   39  wget
+   40  ls
+   41  cd ..
+   42  ls
+   43  ls -allt
+   44  cd info/
+   45  ls
+   46  ls -alt
+   47  nano .bash_profile 
+   48  cd ..
+   49  ls
+   50  cd info
+   51  ls
+   52  nano ./bashrc
+   53  ls
+   54  ls-l
+   55  ls -alt
+   56  cp .bash_profile Desktop
+   57  ls
+   58  pwd
+   59  host miniserve2.cshl.edu 
+   60  nano test.py
+   61  nano /Users/info/.nanorc 
+   62  cd PFB_problemsets/
+   63  cd pythonproblemset1/
+   64  ls
+   65  vi myname.py
+   66  history > python2history.txt
+   67  cat python2history.txt 
+   68  git add python2history.txt 
+   69  git commit -m "python set 2 history"
+   70  git push
+   71  vi strings8.py
+   72  ls
+   73  vi strings8.py 
+   74  vi lists.py
+   75  mv lists.py ../pythonproblemset4/
+   76  cd ..
+   77  cd pythonproblemset4
+   78  vi lists.py 
+   79  git add -A
+   80  vi lists2.py
+   81  vi lists3.py
+   82  vi lists4.py
+   83  vi lists5.py
+   84  vi lists6.py
+   85  python3 strings8.py 
+   86  ls
+   87  python3 strings8.py 
+   88  git add -A
+   89  git commit -m "adding python3 problemset"
+   90  git push
+   91  history > python3problemsethistory.txt
+   92  cd ..
+   93  mkdir pythonproblemset4
+   94  cd pythonproblemset4
+   95  python3
+   96  python lists.py
+   97  python3 lists.py
+   98  python3 lists.py
+   99  python3 lists.py
+  100  python3 lists.py
+  101  python3 lists.py
+  102  python3 lists.py
+  103  python3 lists.py
+  104  python3 lists.py
+  105  python3 lists.py
+  106  python3 lists.py
+  107  python3 lists.py
+  108  python3
+  109  python3 lists2.py
+  110  python3 lists2.py
+  111  python3 lists2.py
+  112  python3
+  113  python3 lists3.py 
+  114  python3 lists3.py 
+  115  python3 lists3.py 
+  116  python3 lists3.py 
+  117  python3 lists3.py 
+  118  python3 lists3.py 
+  119  python3
+  120  python3 lists3.py 
+  121  python3 lists3.py 
+  122  python3 lists3.py 
+  123  python3 lists3.py 
+  124  python3 lists3.py 
+  125  python3 lists3.py 
+  126  python3 lists3.py 
+  127  python3 lists4.py 
+  128  python3 lists4.py 
+  129  python3 lists4.py 
+  130  python3 lists4.py 
+  131  python3 lists4.py 
+  132  python3 lists4.py 
+  133  vi lists3.py 
+  134  python3 lists4.py 
+  135  python3 lists4.py 
+  136  python3 lists4.py 
+  137  python3 lists5.py 
+  138  python3 lists5.py 
+  139  python3 lists5.py 
+  140  python3 lists5.py 
+  141  python3 lists6.py 
+  142  less lists5
+  143  less lists5.py 
+  144  python3 lists6.py 
+  145  python3 lists6.py 
+  146  git add -A
+  147  git commit -m "updating python4"
+  148  git push
+  149  history > python3and4_9.txt
+  150  git add python3and4_9.txt 
+  151  git commit -m "today's history"
+  152  git push
+  153  cd PFB_problemsets/pythonproblemset4
+  154  ls
+  155  python3 lists7.py
+  156  python3 lists7.py
+  157  python3 lists7.py 3 10
+  158  python3 lists7.py 3 10
+  159  python3 lists7.py 3 10
+  160  python3 lists7.py 3 10
+  161  python3 lists7.py 3 10
+  162  python3 lists7.py 3 10
+  163  python3 lists8.py
+  164  python3 lists8.py
+  165  python3 lists8.py
+  166  vi lists8.py 
+  167  python3 lists9.py
+  168  python3 lists9.py
+  169  python3 lists9.py
+  170  python3 lists9.py
+  171  python3 lists9.py
+  172  python3 lists9.py
+  173  python3 lists9.py
+  174  python3 lists9.py
+  175  python3 lists9.py
+  176  python3 lists9.py
+  177  python3 lists9.py
+  178  python3 lists9.py
+  179  python3 lists9.py
+  180  python3 lists8.py
+  181  python3 lists8.py
+  182  python3 lists8.py
+  183  python3 lists8.py
+  184  python3 lists8.py
+  185  python3 lists8.py
+  186  cd ..
+  187  mkdir pythonproblemset5
+  188  cd pythonproblemset5
+  189  python3 dictionaries.py 
+  190  python3 dictionaries.py 
+  191  python3 dictionaries.py 
+  192  python3 dictionaries.py 
+  193  python3 dictionaries.py 
+  194  python3 dictionaries.py 
+  195  python3 dictionaries.py 'book'
+  196  python3 dictionaries.py 'book'
+  197  python3 dictionaries.py 'book'
+  198  python3 dictionaries.py 'book'
+  199  python3 dictionaries.py 'book'
+  200  python3 dictionaries.py
+  201  python3 dictionaries.py
+  202  python3 dictionaries.py
+  203  python3 dictionaries.py
+  204  python3
+  205  python3 sets.py
+  206  [A
+  207  python3 sets.py
+  208  python3 sets.py
+  209  python3 sets.py
+  210  python3 sets.py
+  211  python3 sets.py
+  212  python3 sets.py
+  213  python3
+  214  python3 sets2.py
+  215  python3 sets2.py
+  216  python3 sets2.py
+  217  python3 sets2.py
+  218  python3 sets2.py
+  219  python3 sets2.py
+  220  python3 sets2.py
+  221  python3 sets2.py
+  222  python3 sets2.py
+  223  python3 sets2.py
+  224  python3 sets2.py
+  225  python3 sets2.py
+  226  cd ..
+  227  mkdir pythonproblemset6
+  228  cd pythonproblemset6
+  229  cd 
+  230  ls
+  231  cd PFB_problemsets/pythonproblemset6
+  232  ls
+  233  cat Python_06.txt 
+  234  od -c Python_06.txt 
+  235  python3
+  236  python3 IO.py 
+  237  python3 IO.py 
+  238  python3 IO.py 
+  239  python3 IO.py 
+  240  ls
+  241  cat Python_06_uc.txt 
+  242  ls
+  243  less Python_06.seq.txt 
+  244  less Python_06.seq.txt 
+  245  python3 IO2.py 
+  246  python3 IO2.py 
+  247  python3 IO2.py 
+  248  python3 IO2.py 
+  249  python3 IO2.py 
+  250  python3 IO2.py 
+  251  python3 IO2.py 
+  252  python3 IO2.py 
+  253  python3 IO2.py 
+  254  python3 IO2.py 
+  255  python3 IO2.py 
+  256  python3 IO2.py 
+  257  python3 IO2.py 
+  258  python3 IO2.py > python_06.seq.fasta
+  259  less python_06.seq.fasta 
+  260  ls
+  261  less Python_06.fastq 
+  262  python3 IO3.py 
+  263  python3 IO3.py 
+  264  python3 IO3.py 
+  265  cd ..
+  266  mkdir pythonproblemset7
+  267  cd pythonproblemset7
+  268  ls
+  269  less Python_07_nobody.txt 
+  270  python3 RE.py
+  271  python3 RE.py
+  272  python3 RE.py
+  273  python3 RE.py
+  274  python3 RE.py
+  275  python3 RE.py
+  276  python3 RE.py
+  277  python3 RE.py
+  278  less Python_07_nobody.txt 
+  279  less Python_07_nobody.txt 
+  280  python3 RE.py
+  281  less Python_07_nobody.txt 
+  282  python3 RE.py
+  283  vi RE.py 
+  284  python3 RE2.py 
+  285  python3 RE2.py 
+  286  vi RE.py 
+  287  python3 RE2.py 
+  288  python3 RE2.py 
+  289  python3 RE2.py 
+  290  vi RE.py 
+  291  python3 RE2.py 
+  292  less Python_07_nobody.txt 
+  293  rm Python_07_nobody.txt 
+  294  less Python_07_nobody.txt 
+  295  ls
+  296  rm Becky.txt 
+  297  rm RE2.py 
+  298  cp RE.py RE2.py
+  299  ls
+  300  python3 RE2.py 
+  301  python3 RE2.py 
+  302  python3 RE2.py 
+  303  less becky.txt 
+  304  python3 RE2.py 
+  305  less becky.txt 
+  306  less RE2.py 
+  307  python3 RE3.py 
+  308  python3 RE3.py 
+  309  python3 RE3.py 
+  310  less Python_07.fasta 
+  311  python3 RE3.py 
+  312  less Python_07.fasta 
+  313  python3 RE3.py 
+  314  python3 RE3.py 
+  315  python3 RE3.py 
+  316  python3 RE3.py 
+  317  python3 RE3.py 
+  318  less Python_07.f
+  319  less Python_07.fasta 
+  320  cat Python_07.fasta 
+  321  cat Python_07.fasta 
+  322  python3 RE3.py 
+  323  python3 RE3.py 
+  324  python3 RE3.py 
+  325  python3 RE3.py 
+  326  python3 RE3.py 
+  327  history > pythonproblemsetsoct18history.txt
+  328  git add pythonproblemsetsoct18history.txt 
+  329  git commit
+  330  git commit -m "history"
+  331  git push
+  332  vi lists7.py
+  333  mv lists7.py PFB_problemsets/pythonproblemset4
+  334  cd PFB_problemsets/pythonproblemset4
+  335  vi lists7.py 
+  336  vi lists8.pyu
+  337  ls
+  338  vi lists8.py
+  339  vi lists9.py
+  340  vi lists8.py 
+  341  vi lists9.py 
+  342  vi lists8.py 
+  343  git add -A 
+  344  git commit -m "adding rest of python4 problemsets"
+  345  git push
+  346  vi dictionaries.py
+  347  mv dictionaries.py ../pythonproblemset5
+  348  cd ../pythonproblemset5
+  349  ls
+  350  vi dictionaries.py 
+  351  vi sets.py
+  352  vi sets2.py
+  353  git add -A
+  354  git commit -m "pythonset5 files added"
+  355  git push
+  356  cd ../pythonproblemset6
+  357  vi IO.py
+  358  vi IO2.py
+  359  vi IO3.py
+  360  git add -A 
+  361  git commit -m "python problem set 6 1 to 4"
+  362  git push
+  363  cd ..
+  364  cd pythonproblemset7
+  365  vi RE.py
+  366  vi RE2.py
+  367  vi RE.py 
+  368  vi RE2.py 
+  369  vi RE3.py
+  370  vi RE3.py 
+  371  git add -A
+  372  git commit -m "updating python set 7"
+  373  git push
+  374  cd PFB_problemsets/
+  375  ls
+  376  mkdir pythonproblemset8
+  377  cd pythonproblemset8
+  378  less Python_08.fasta 
+  379  less Python_08.fasta 
+  380  less smallPython_08.fasta 
+  381  python3 datastructures.py 
+  382  python3 datastructures.py 
+  383  od -c smallPython_08.fasta 
+  384  python3 datastructures.py 
+  385  python3 datastructures.py 
+  386  python3 datastructures.py 
+  387  cat smallPython_08.fasta 
+  388  python3 datastructures.py 
+  389  cat smallPython_08.fasta 
+  390  python3 datastructures.py 
+  391  python3 datastructures.py 
+  392  python3 datastructures.py 
+  393  python3 datastructures.py 
+  394  python3 datastructures.py 
+  395  python3 datastructures.py 
+  396  python3 datastructures.py 
+  397  python3 datastructures.py 
+  398  python3 datastructures.py 
+  399  python3 datastructures.py 
+  400  python3 datastructures.py 
+  401  python3 datastructures.py 
+  402  python3 datastructures.py 
+  403  python3 datastructures.py 
+  404  python3 datastructures.py 
+  405  python3 datastructures.py 
+  406  python3 datastructures.py 
+  407  python3 datastructures.py 
+  408  python3 datastructures.py 
+  409  python3 datastructures.py 
+  410  python3 datastructures.py 
+  411  python3 datastructures.py 
+  412  python3 datastructures.py 
+  413  python3 datastructures.py 
+  414  python3 datastructures.py 
+  415  python3 datastructures.py 
+  416  cat smallPython_08.fasta 
+  417  python3 datastructures.py 
+  418  python3 datastructures.py 
+  419  python3 datastructures.py 
+  420  python3 datastructures.py 
+  421  history > problemset8history.txt
